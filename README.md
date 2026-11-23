@@ -4,7 +4,7 @@
 
 I build e-commerce storefronts and web apps.
 
-[LinkedIn](https://www.linkedin.com/in/marwanfarouk/) · [Featured demo](https://freshcart-marwanfarouk.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/marwanfarouk/) · [Featured demo](https://freshcart-marwanfarouk.vercel.app/) · [Portfolio](https://marwan-farouk.vercel.app/)
 
 ## Selected work
 
