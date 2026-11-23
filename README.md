@@ -1,27 +1,44 @@
-<img src="./assets/header.png" width="1200" alt="MF Marwan Farouk">
+<img src="./assets/1-profile-header.png" width="1200" alt="MF. Marwan Farouk, storefronts and web apps">
 
-**Front-end developer. I build storefronts and web apps with React, Next.js and TypeScript.**
+## Front-End Developer | React · Next.js · TypeScript
 
-I spent nearly three years working remotely at AdFaz, building and customizing e-commerce stores on Salla, Zid, EasyOrders and similar platforms. More than 2,000 stores in total. That's where I learned how a storefront really works: catalogs, carts, checkout, and the details that make people buy. Now I build them from scratch with the modern React stack.
+I build e-commerce storefronts and web apps.
 
-### Projects
+[LinkedIn](https://www.linkedin.com/in/marwanfarouk/) · [Featured demo](https://freshcart-marwanfarouk.vercel.app/)
 
-**🛒 FreshCart, full e-commerce web app**
-[Live demo](https://freshcart-marwanfarouk.vercel.app) · [Code](https://github.com/MarwanXFarouk/FreshCart)
+## Selected work
 
-Browse products by category and brand, manage a persistent cart and wishlist, sign in with JWT auth, and check out. Built with Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4, TanStack Query and Zustand, organized in a feature-sliced structure. My course project, and the deepest I've gone on this stack.
+### FreshCart
 
-**🎬 MovieApp, movie browsing, no framework**
-[Live demo](https://marwanxfarouk.github.io/MovieApp/) · [Code](https://github.com/MarwanXFarouk/MovieApp)
+An e-commerce course project with product browsing, cart, wishlist, authentication and checkout.
 
-Plain HTML, CSS and JavaScript pulling live data from the TMDB API: now playing, popular, top rated, trending and search. Where I practiced working with the DOM and APIs directly, before frameworks.
+[![FreshCart home page](./assets/2-freshcart-home.png)](https://freshcart-marwanfarouk.vercel.app/)
 
-### Stack
+- Browse products, categories and brands, then open product details.
+- Cart and wishlist data use TanStack Query with API updates and success/error feedback.
+- Forms use React Hook Form and Zod validation; product grids adapt to screen width.
+
+Next.js · React · TypeScript · Tailwind CSS · TanStack Query · Zustand
+
+[Live demo](https://freshcart-marwanfarouk.vercel.app/) · [Source code](https://github.com/MarwanXFarouk/FreshCart)
+
+### MovieApp
+
+Movie discovery using the TMDB API. Built with HTML, CSS and JavaScript to practice DOM and API fundamentals.
+
+[![MovieApp search and movie posters](./assets/3-movieapp-home.png)](https://marwanxfarouk.github.io/MovieApp/)
+
+- Browse now playing, popular, top rated and trending titles, or search by keyword.
+- Movie cards show an overview, release date and rating.
+
+HTML · CSS · JavaScript · jQuery · Bootstrap
+
+[Live demo](https://marwanxfarouk.github.io/MovieApp/) · [Source code](https://github.com/MarwanXFarouk/MovieApp)
+
+## E-commerce background
+
+I spent nearly three years working remotely at AdFaz, building and customizing more than 2,000 stores on Salla, Zid, EasyOrders and similar platforms. Now I'm building web apps with the React stack.
+
+## Tools I use
 
 React · Next.js · TypeScript · JavaScript · Tailwind CSS · TanStack Query · Zustand · HTML · CSS
-
-E-commerce platforms: Salla · Zid · EasyOrders
-
-### Reach me
-
-[LinkedIn](https://www.linkedin.com/in/marwanfarouk/) · [GitHub](https://github.com/MarwanXFarouk)
