@@ -1,4 +1,4 @@
-<img src="./assets/1-profile-header.png" width="1200" alt="MF. Marwan Farouk, storefronts and web apps">
+<img src="https://github.com/user-attachments/assets/275ad7ca-565c-48a6-9ab3-cabc6e2e1986" width="1200" alt="MF. Marwan Farouk, storefronts and web apps">
 
 ## Front-End Developer | React · Next.js · TypeScript
 
@@ -12,7 +12,7 @@ I build e-commerce storefronts and web apps.
 
 An e-commerce course project with product browsing, cart, wishlist, authentication and checkout.
 
-[![FreshCart home page](./assets/2-freshcart-home.png)](https://freshcart-marwanfarouk.vercel.app/)
+[![FreshCart home page](https://github.com/user-attachments/assets/6c6e76e6-1527-4b27-b0f2-84f0ef9ac04a)](https://freshcart-marwanfarouk.vercel.app/)
 
 - Browse products, categories and brands, then open product details.
 - Cart and wishlist data use TanStack Query with API updates and success/error feedback.
@@ -26,7 +26,7 @@ Next.js · React · TypeScript · Tailwind CSS · TanStack Query · Zustand
 
 Movie discovery using the TMDB API. Built with HTML, CSS and JavaScript to practice DOM and API fundamentals.
 
-[![MovieApp search and movie posters](./assets/3-movieapp-home.png)](https://marwanxfarouk.github.io/MovieApp/)
+[![MovieApp search and movie posters](https://github.com/user-attachments/assets/fdabd7cb-2410-4972-8cee-76ef7d967e00)](https://marwanxfarouk.github.io/MovieApp/)
 
 - Browse now playing, popular, top rated and trending titles, or search by keyword.
 - Movie cards show an overview, release date and rating.
