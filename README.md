@@ -35,10 +35,6 @@ HTML · CSS · JavaScript · jQuery · Bootstrap
 
 [Live demo](https://marwanxfarouk.github.io/MovieApp/) · [Source code](https://github.com/MarwanXFarouk/MovieApp)
 
-## E-commerce background
-
-I spent nearly three years working remotely at AdFaz, building and customizing more than 2,000 stores on Salla, Zid, EasyOrders and similar platforms. Now I'm building web apps with the React stack.
-
 ## Tools I use
 
 React · Next.js · TypeScript · JavaScript · Tailwind CSS · TanStack Query · Zustand · HTML · CSS
